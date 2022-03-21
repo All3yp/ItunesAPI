@@ -19,3 +19,10 @@ Carregar a lista dos álbum add no favoritos - utilizem o core data para isso.
 About
 
 Informações sobre o app
+
+# Integrantes: 
+- Alley Pereira
+- Bruno Coelho
+- Bruno Oliveira
+- Carlos Henrique
+- Jonas William
